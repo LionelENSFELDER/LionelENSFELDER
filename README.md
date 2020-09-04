@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello, je suis ✨Lionel Ensfelder✨
 
-<!--
-**LionelENSFELDER/LionelENSFELDER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Drag Racing](./js.jpg)
 
-Here are some ideas to get you started:
+### Qui suis-je ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Après des années enrichissantes dans la Marine Nationale en tant que technicien informatique et télécoms, j'ai décidé de devenir développeur web frontend. Je me spécialise dans le développement web frontend utilisant des technologies Javascript telles que React, Vue ou encore Node.js. 
+
+### Mon stack
+
+- 💖 &nbsp; HTML | CSS | JavaScript | Bootstrap | SASS | React | Wordpress
+- 🌱 &nbsp; Node.js | PHP | Symfony
+- 💾 &nbsp; MySQL | MongoDB
+- 🚀 &nbsp; Git | Visual Studio Code | Docker | Trello | Spotify
+- ⭐ &nbsp; Figma | Lunacy | Trello
+
+### Me contacter
+🎨[Portfolio](https://lioens.dev)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👔[LinkedIn](https://www.linkedin.com/in/lionel-ensfelder/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:octocat:[Mes projets](https://github.com/LionelENSFELDER?tab=repositories)
+
+
