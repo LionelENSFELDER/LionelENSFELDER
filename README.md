@@ -9,9 +9,9 @@ Après des années enrichissantes dans la Marine Nationale en tant que technicie
 ### Mon stack
 
 - 💪 &nbsp; HTML | CSS | JavaScript | Bootstrap | SASS | Wordpress
-- 💖 &nbsp; Node.js | React | Angular | Vue
+- 💖 &nbsp; Node.js | React | Angular
 - 💾 &nbsp; MySQL | MongoDB
-- 🚀 &nbsp; Git | Visual Studio Code | Bash | Docker | Trello | Spotify
+- 🚀 &nbsp; Git | Visual Studio Code | Docker | Trello | Spotify
 
 ### Me contacter
 🎨[Portfolio](https://lioens.dev)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👔[LinkedIn](https://www.linkedin.com/in/lionel-ensfelder/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:octocat:[Mes projets](https://github.com/LionelENSFELDER?tab=repositories)
