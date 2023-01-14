@@ -17,10 +17,13 @@ Je n'aime pas me définir par le travail que j'ai réalisé. Je me définis par 
 
 # Mon stack
 
-- 💪 &nbsp; HTML | CSS | JavaScript | Material UI (MUI) | Bootstrap | SASS | Wordpress
-- 💖 &nbsp; React | Node.js
-- 💾 &nbsp; MySQL | MongoDB | Firebase
-- 🚀 &nbsp; Git | VSCode | Docker | Trello | Spotify
+💪 &nbsp; ```HTML``` ```CSS``` ```JavaScript``` ```Material UI (MUI)``` ```Bootstrap``` ```SASS``` ```Wordpress```
+
+💖 &nbsp; ```React``` ```Node.js```
+
+💾 &nbsp; ```MySQL``` ```MongoDB``` ```Firebase```
+
+🚀 &nbsp; ```Git``` ```VSCode``` ```Docker``` ```Trello``` ```Spotify```
 
 # Quelques projets sympa
 
