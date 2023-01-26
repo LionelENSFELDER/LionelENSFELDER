@@ -25,7 +25,7 @@ Je n'aime pas me définir par le travail que j'ai réalisé. Je me définis par 
 
 🚀 &nbsp; ```Git``` ```VSCode``` ```Docker``` ```Trello``` ```Spotify```
 
-# Quelques projets sympa
+# Quelques projets sympas
 
 ### 🛍️ E-boutique
 ```HTML5``` ```CSS3``` ```UI Kit``` ```Next.js``` ```React``` ```Mongodb```
