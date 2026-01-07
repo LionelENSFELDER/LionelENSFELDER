@@ -18,7 +18,7 @@ Pendant mon temps libre je passe du temps avec ma famille, je fais de l'exercice
 
 # 🧱 Mon stack
 
-💖 ```HTML & CSS``` ```JavaScript``` ```React / Next.js```
+💖 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ```JavaScript``` ```React / Next.js```
 
 💾 ```Node.js``` ```MongoDB``` ```Firebase``` ```MySQL```
 
